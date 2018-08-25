@@ -1,6 +1,8 @@
 # Spring-Mass-Damper Identification Challenge
 
-Given the SMD system as seen in class, you must:
+![Figure of a sideways spring-mass-damper system](http://ctms.engin.umich.edu/CTMS/Content/Introduction/System/Modeling/figures/mass_spring_damper.png)
+
+Given the SMD system above, you must:
 
 1. Find the system's transfer function G(s)
 2. Discretize G(s)
