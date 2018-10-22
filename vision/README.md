@@ -1,6 +1,5 @@
-# Didactic_resources : Vision [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/imr-pucrs/didactic_resources/tree/master/vision/master)
+# Didactic_resources : Vision
 
----
 # Bibliography
 
 Correll, Nikolaus. [Introduction to Autonomous Robots: Kinematics, Perception, Localization and Planning](https://www.amazon.com/Introduction-Autonomous-Robots-Kinematics-Localization/dp/0692700870). p. 226, Magellan Scientific; 2 edition, 2016. :: (Chapter 6)
@@ -14,7 +13,6 @@ Joseph, Lentin. [Learning Robotics using Python](http://learn-robotics.com/). p.
 Corke, Peter. [Robotics, Vision and Control: Fundamental Algorithms in MatLab](http://www.springer.com/gp/book/9783642201448). p. 692, Springer, 2011. :: (Chapter 10)
 
 
----
 # Massive Open Online Course (MOOC)
 
 ## Vision and Robotics
