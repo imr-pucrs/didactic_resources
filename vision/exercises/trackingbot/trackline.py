@@ -30,7 +30,7 @@ class Turtlebot:
     cv2.namedWindow("window", 1)
 
     # Subscribe to ROS topics
-     self.image_sub = rospy.Subscriber('camera/rgb/image_raw', Image, self.image_callback)
+    self.image_sub = rospy.Subscriber('camera/rgb/image_raw', Image, self.image_callback)
     self.cmd_vel_pub= rospy.Publisher('cmd_vel_mux/input/teleop', Twist, queue_size=1)
     self.twist = Twist()
 
